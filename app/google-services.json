@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934913033067",
+    "firebase_url": "https://btscproject-default-rtdb.firebaseio.com",
+    "project_id": "btscproject",
+    "storage_bucket": "btscproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934913033067:android:f92fef60b94c7b3ddec22e",
+        "android_client_info": {
+          "package_name": "com.example.btsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934913033067-9eotji9armhl9u07scvi872b29k3untg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADETCerrlO2cOQvUMJ8WAhAcLOQzUJZ68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934913033067-9eotji9armhl9u07scvi872b29k3untg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
